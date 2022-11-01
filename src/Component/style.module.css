@@ -1,0 +1,28 @@
+.MainBox{
+    display: flex;
+    justify-content: center;
+   
+}
+.PaperBox{
+    width: 70%;
+    padding: 20px 50px;
+     display: flex;
+     flex-direction: column;
+     gap: 30px;
+}
+.headingBox{
+    text-align: center;
+}
+.MainHeading{
+    color:royalblue;
+
+}
+.formBox{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.RadioLabelBox{
+    display: flex;
+    align-items: center;
+}
